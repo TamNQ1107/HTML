@@ -1,0 +1,10 @@
+h1{
+    text-align: center; /* di chuyển tiêu đề vào giữa */
+    text-align: end; /* di chuyển tiêu đề vào cuối */
+    text-align: justify; /* căn đều hai bên */
+    text-align: left; /* di chuyển tiêu đề vào đầu */
+    text-align: start; /* di chuyển tiêu đề vào đầu */
+    text-align: inherit; /* kế thừa giá trị text-align từ phần tử cha */
+    text-align: initial; /* đặt giá trị text-align về mặc định */
+    text-align: unset; /* xóa bỏ giá trị text-align đã được thiết lập */
+}
