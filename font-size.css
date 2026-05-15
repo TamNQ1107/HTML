@@ -1,0 +1,15 @@
+h1{
+    font-size: large; /* thiết lập kích thước chữ lớn */
+    font-size: medium; /* thiết lập kích thước chữ trung bình */
+    font-size: small; /* thiết lập kích thước chữ nhỏ */
+    font-size: x-small; /* thiết lập kích thước chữ rất nhỏ */
+    font-size: xx-small; /* thiết lập kích thước chữ cực nhỏ */
+    font-size: x-large; /* thiết lập kích thước chữ rất lớn */
+    font-size: xx-large; /* thiết lập kích thước chữ cực lớn */
+    font-size: larger; /* thiết lập kích thước chữ lớn hơn phần tử cha */
+    font-size: smaller; /* thiết lập kích thước chữ nhỏ hơn phần tử cha */
+    font-size: 10px; /* thiết lập kích thước chữ bằng 10 pixel */
+    font-size: 1em; /* thiết lập kích thước chữ bằng kích thước chữ của phần tử cha */
+    font-size: 1rem; /* thiết lập kích thước chữ bằng 1 lần kích thước chữ của phần tử cha */
+    font-size: 150%; /* thiết lập kích thước chữ bằng 150% kích thước chữ của phần tử cha */
+}
